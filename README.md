@@ -9,15 +9,10 @@ Passionate about software architecture, performance optimization, and building h
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rensocontrerassamaniego"
-     target="_blank"
-     rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/rensocontrerassamaniego">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
-  <a href="https://gitlab.com/rensocontreras"
-     target="_blank"
-     rel="noopener noreferrer">
+  <a href="https://gitlab.com/rensocontreras">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>
 </p>
@@ -32,12 +27,7 @@ Specialized in **Kotlin**, **Jetpack Compose**, **Clean Architecture**, and **Mo
 
 Most of my professional work has been developed in **private repositories**, contributing to enterprise products and confidential projects.
 
-I also have experience with:
-
-- Flutter & Dart
-- Firebase
-- Performance Optimization
-- Mobile Security (Ethical Hacking)
+I also have experience with **Flutter**, **Firebase**, and **Mobile Security (Ethical Hacking)**.
 
 ---
 
@@ -60,30 +50,16 @@ I also have experience with:
 
 ---
 
-## 🛠️ Technologies & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase,git,github,gitlab,gradle" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
-<p>
-  💼 <a href="https://www.linkedin.com/in/rensocontrerassamaniego"
-         target="_blank"
-         rel="noopener noreferrer">
-      LinkedIn
-      </a>
-</p>
-
-<p>
-  🦊 <a href="https://gitlab.com/rensocontreras"
-         target="_blank"
-         rel="noopener noreferrer">
-      GitLab
-      </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rensocontrerassamaniego">
+    LinkedIn
+  </a>
+  •
+  <a href="https://gitlab.com/rensocontreras">
+    GitLab
+  </a>
 </p>
 
 ---
